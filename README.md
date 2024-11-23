@@ -24,10 +24,15 @@
 ![92238811-7EEB-449B-B314-AC68CE086D7B](https://github.com/user-attachments/assets/6f8d5d2b-4fe0-46eb-b1be-f0a1319a5568)
 ![59F4D56B-BA0B-428F-BCB5-1B177D70DB28](https://github.com/user-attachments/assets/d7d3e251-cec5-4c7e-bbe7-d86df3ca8c81)
 # Experience Cansat
+การแข่งขันเป็นการส่งจรวดขึ้นไป โดยบรรจุ Cansat หรือดาวเทียมขนาดเท่ากระป๋องไว้ภายใน เพื่อให้สามารถทำภารกิจต่างๆตามเป้าหมายได้ โดยแบ่งเป็น 2 ภารกิจ คือ ภารกิจหลัก และภารกิจเสริม 
+ภารกิจหลัก คือ วัดค่าความเร่ง อุณหภูมิ ความสูง ความเร็ว และตำแหน่ง
+ภารกิจเสริม คือ สร้างเสาสัญญาณเพื่อให้สามารถรับค่าเหล่านั้นได้ในระยะที่ไกล (มากกว่า 5 กม.)
+## ประสบการณ์ที่ได้รับ :
+เรียนรู้การทำงานเป็นระบบ วิธีแก้ปัญหาเฉพาะหน้า วิธีจัดการกับความรู้สึก แรงกดดัน ตลอดระยะเวลาการทำงาน 3 เดือน 
 ![80FC8134-2400-4246-81E4-A32A35662F5B](https://github.com/user-attachments/assets/5aaa781f-4c80-43ef-99ec-b7b850f4a134)
 ![425F1CC4-32D4-44EF-935F-E197DDE0A858](https://github.com/user-attachments/assets/07199956-586c-4d3c-b76f-7b8cdebd17e6)
 ![DB8A9011-758D-4DB3-9E97-100882EA3EA7](https://github.com/user-attachments/assets/a2e70040-1d97-4167-bf43-67cbb54f9e9b)
-![Uploading 99C79209-C766-4DC0-BBC7-5DB85674E44F.jpg…]()
+![919B1069-CA18-4DC5-8181-83885F47589A](https://github.com/user-attachments/assets/6ccc120c-db93-4cd8-86f8-67236db46bce)
 ![9AC19BFD-561C-4F41-9A16-96EF55E9A46D](https://github.com/user-attachments/assets/2822ff3f-690f-44ca-82cd-0cdc98634752)
 ![4F8BDF6A-6896-4933-A503-BCE73F9908FA](https://github.com/user-attachments/assets/989ffc94-cb94-4ab8-96ea-3dab7b85e120)
 ![5BFA2738-CE29-4900-9EB2-812447570114](https://github.com/user-attachments/assets/c77c2bee-d293-4951-b590-601f9dd364a7)
@@ -47,5 +52,5 @@
 ![C6661968-8426-4B88-852F-8311B715EED6](https://github.com/user-attachments/assets/a6180edd-cf90-45c5-ac20-3052d6011993)
 ![1A17D6EC-25D6-420F-BEBC-9AEE9C0EE275](https://github.com/user-attachments/assets/d3b6282d-016c-4396-a719-52ddf3715dbe)
 ![58D7294F-8FBE-440B-831C-CC944980333B](https://github.com/user-attachments/assets/812d5c99-9b6f-4021-8e52-077e7e9cc0d2)
-![919B1069-CA18-4DC5-8181-83885F47589A](https://github.com/user-attachments/assets/6ccc120c-db93-4cd8-86f8-67236db46bce)
+
 
