@@ -3,8 +3,7 @@
 ## ประสบการณ์ที่ได้รับ :
 ค่ายสอวน.เป็นค่ายที่ให้มากกว่าความรู้ ให้ทั้งประสบการณ์การใช้ชีวิต มิตรภาพ เรียนรู้การใช้ชีวิตร่วมกับผู้อื่น และที่สำคัญคือได้เพื่อนใหม่ๆมาเยอะมากๆ
 ![6FEE6F34-4581-4718-8EC9-56D0FF086795](https://github.com/user-attachments/assets/719c385e-fcc2-4d7e-ac18-c5ca2ed6e999)
-การเข้าค่ายสอวน.คอมค่าย 1 ปี2565
-
+![188B7E10-C6FD-4F5A-8048-09AB71AA0A3E](https://github.com/user-attachments/assets/230a924e-9110-404f-95a7-e9467feb2205)
 ![CE627612-832B-49C9-A0E5-3FD45FABDE4C](https://github.com/user-attachments/assets/caf4f324-70b2-4758-a63f-c8c19f4ab9dd)
 
 ![035AB2F1-3341-45C8-AFB5-4AAF7701181E](https://github.com/user-attachments/assets/df62972f-bbfe-4de8-9d8d-6b0b3eb747f8)
@@ -12,7 +11,7 @@
 ![A903C81C-14E7-41BB-B875-734B1BA0CAD9](https://github.com/user-attachments/assets/44b58457-3198-461f-935f-70242969a385)
 
 
-![188B7E10-C6FD-4F5A-8048-09AB71AA0A3E](https://github.com/user-attachments/assets/230a924e-9110-404f-95a7-e9467feb2205)
+
 
 
 ![9B00FFB3-6F16-45A1-910F-20D0FD33983C](https://github.com/user-attachments/assets/158303d0-e4da-4aff-8367-290240161b62)
